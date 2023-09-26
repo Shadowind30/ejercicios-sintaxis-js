@@ -36,7 +36,7 @@ const seven = 'siete';
 const eight = 'ocho';
 ```
 
-## 5. Mostrar los tipos de TODAS las variables antes declaradas usando la palabra clave typeof
+## 5. Mostrar los tipos de TODAS las variables antes declaradas por consola usando la palabra clave typeof
 
 **Ejemplos:**
 ```javascript
