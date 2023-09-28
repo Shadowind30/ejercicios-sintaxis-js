@@ -4,7 +4,7 @@
 - Usar block de notas para los ejercicios.
 - No usar copy-paste.
 
-## 1. Declarar 10 variables tipo array usando let, cada arreglo debe de tenr por lomenos 3 elementos
+## 1. Declarar 10 variables tipo array usando let, cada arreglo debe de tener por lo menos 3 elementos
 
 **Ejemplos:**
 ```javascript
@@ -12,7 +12,7 @@ let array1 = [1, 'a', false];
 let array2 = ['Jose', 250, 'javascript'];
 ```
 
-## 2. Declarar 10 variables tipo array usando const, cada arreglo debe de tenr por lomenos 3 elementos
+## 2. Declarar 10 variables tipo array usando const, cada arreglo debe de tener por lo menos 3 elementos
 
 **Ejemplos:**
 ```javascript
