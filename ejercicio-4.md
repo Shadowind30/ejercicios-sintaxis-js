@@ -23,8 +23,8 @@ console.log(`${obj2.nombre} tiene ${obj2.edad} años y trabaja como ${obj2.ocupa
 
 **Ejemplos:**
 ```javascript
-console.log(`Nombre: ${obj1[nombre]}, Edad: ${obj1[edad]}, Ocupacion: ${obj1[ocupacion]}`); // Nombre: el man, Edad 25, Ocupacion: pega blo
-console.log(`${obj2[nombre]} tiene ${obj2[edad]} años y trabaja como ${obj2[ocupacion]}`); // random tiene 20 años y trabaja como Frontend Developer;
+console.log(`Nombre: ${obj1['nombre']}, Edad: ${obj1['edad']}, Ocupacion: ${obj1['ocupacion']}`); // Nombre: el man, Edad 25, Ocupacion: pega blo
+console.log(`${obj2['nombre']} tiene ${obj2['edad']} años y trabaja como ${obj2['ocupacion']}`); // random tiene 20 años y trabaja como Frontend Developer;
 ```
 
 ## 4. Crear una propiedad salario en cada objeto
@@ -47,6 +47,6 @@ delete obj2.edad; // obj2 quedara como {name: 'random', ocupacion: 'Frontend Dev
 
 **Ejemplos:**
 ```javascript
-delete obj1[ocupacion]; // obj1 quedara como {name: 'el man', edad: 25};
-delete obj2[ocupacion]; // obj2 quedara como {name: 'random', edad: 20};
+delete obj1['ocupacion']; // obj1 quedara como {name: 'el man', edad: 25};
+delete obj2['ocupacion']; // obj2 quedara como {name: 'random', edad: 20};
 ```
