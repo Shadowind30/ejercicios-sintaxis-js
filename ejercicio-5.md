@@ -73,3 +73,22 @@ switch(numero) {
     }
 }
 ```
+
+## 6. Usar un switch case con cascada para mostrar los colores de 20 frutas (no hay un limite sobre la cantidad de frutas por cada color)
+
+**Ejemplos:**
+```javascript
+const fruta = 'pera';
+switch(fruta) {
+    case 'pera': 
+    case 'limon':
+    {
+        console.log('Verde');
+    }
+    case 'manzana': 
+    case 'fresa': {
+        console.log('Rojo');
+        break;
+    }
+}
+```
