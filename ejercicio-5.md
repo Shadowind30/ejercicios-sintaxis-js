@@ -67,7 +67,7 @@ switch(numero) {
         console.log('Ochenta y dos');
         break;
     }
-    case 81: {
+    case 83: {
         console.log('Ochenta y tres');
         break;
     }
