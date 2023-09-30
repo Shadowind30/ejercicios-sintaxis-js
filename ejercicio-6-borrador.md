@@ -1,6 +1,7 @@
 # Capítulo 6: Bucles (Todavia no esta completado)
 
 **Notas del autor**
++ No hacer este ejercicio hasta que este completado
 + Empece a hacer este como el capitulo 5, pero luego vi que aun faltaba practicar las condicionales
 + No queria ireme tanto a la parte logica, pero no habia otra manera.
 
