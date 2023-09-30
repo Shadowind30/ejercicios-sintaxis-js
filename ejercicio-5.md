@@ -84,6 +84,7 @@ switch(fruta) {
     case 'limon':
     {
         console.log('Verde');
+        break;
     }
     case 'manzana': 
     case 'fresa': {
