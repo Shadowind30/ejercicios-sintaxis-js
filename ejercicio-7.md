@@ -88,10 +88,10 @@ console.log(f.length <= g.length);
 console.log(f.length >= g.length);
 ```
 
-## 15. Usar un operador ternario para asignarle a una variable type el tipo de cada variable (numero o cadena)
+## 15. Usar un operador ternario para asignarle a una variable type el tipo de cada variable (type puede ser 'numero' o 'cadena')
 ```javascript
 const type1 = typeof one === 'number' ? 'numero' : 'cadena';
-const type = typeof f === 'number' ? 'numero' : 'cadena';
+const type2 = typeof f === 'number' ? 'numero' : 'cadena';
 console.log(type1);
 console.log(type2);
 ```
