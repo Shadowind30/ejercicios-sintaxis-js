@@ -51,11 +51,11 @@ for(let i = 1; i<= 10; i++) {
 ## 3. Crear 10 variables tipo array (minimo 3 elementos en cada array) y mostrar cada elemento por consola usando for...of
 **Ejemplos:**
 ```javascript
-cont arr = [1, 2, 3, 4, 5];
+const arr = [1, 2, 3, 4, 5];
 for(numero of arr) {
     console.log(numero); // numero representa a cada elemento del array (1, 2, 3, 4 y 5 en este caso. Pero puede ser cualquier nombre)
 }
-cont arr2 = ['a', 'b', 'c', 'd'];
+const arr2 = ['a', 'b', 'c', 'd'];
 for(letra of arr2) {
     console.log(letra); // letra representa a cada elemento del array ('a', 'b', 'c' y 'd' en este caso. Pero puede ser cualquier nombre)
 }
@@ -64,7 +64,7 @@ for(letra of arr2) {
 ## 4. Crear 10 variables de tipo objeto (minimo 2 keys en cada objeto) y mostrar  cada elemento por consola usando for...in
 **Ejemplos:**
 ```javascript
-cont obj1 = {
+const obj1 = {
     uno: 1,
     dos: 2,
     tres: 3
@@ -72,7 +72,7 @@ cont obj1 = {
 for(key in obj1) {
     console.log(key, obj1[key]); // Key representa cada clave del objeto (uno, dos y tres en este caso. Pero puede ser cualquier nombre)
 }
-cont obj2 = {
+const obj2 = {
     be: 'b',
     ce: 'c',
     efe: 'f'
