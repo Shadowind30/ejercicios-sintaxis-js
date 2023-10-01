@@ -18,40 +18,40 @@ const g = 'ge';
 ## 2. Mostrar por consola 10 sumas entre las variables numericas
 **Ejemplos:**
 ```javascript
-console.log(1 + 2);
+console.log(one + two);
 ```
 ## 3. Mostrar por consola 10 restas entre las variables numericas
 **Ejemplos:**
 ```javascript
-console.log(1 - 2);
+console.log(one - two);
 ```
 ## 4. Mostrar por consola 10 multiplicaciones entre las variables numericas
 **Ejemplos:**
 ```javascript
-console.log(1 * 2);
+console.log(one * two);
 ```
 ## 5. Mostrar por consola 10 divisiones entre las variables numericas
 **Ejemplos:**
 ```javascript
-console.log(1 / 2);
+console.log(one / two);
 ```
 
 ## 6. Mostrar por consola 10 residuos entre las variables numericas
 **Ejemplos:**
 ```javascript
-console.log(1 % 2);
+console.log(one % two);
 ```
 
 ## 7. Mostrar por consola 10 comparaciones de igualdad entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-console.log(1 == a);
+console.log(one == a);
 
 ```
 ## 8. Mostrar por consola 10 comparaciones de igualdad stricta entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-console.log(1 === a);
+console.log(one === a);
 ```
 
 ## 9. Mostrar por consola 10 comparaciones de desigualdad entre las variables numericas y las tipo string
