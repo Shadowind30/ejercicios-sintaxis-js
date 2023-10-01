@@ -1,7 +1,6 @@
-# Capítulo 6: Bucles (Todavia no esta completado)
+# Capítulo 6: Bucles
 
 **Notas del autor**
-+ No hacer este ejercicio hasta que este completado
 + Empece a hacer este como el capitulo 5, pero luego vi que aun faltaba practicar las condicionales
 + No queria ireme tanto a la parte logica, pero no habia otra manera.
 
@@ -47,34 +46,36 @@ for(let i = 1; i<= 10; i++) {
 
 ```
 
-## 3. Acceder a cada propiedad de cada objeto usando bracket notation
-
+## 3. Crear 10 variables tipo array (minimo 3 elementos en cada array) y mostrar cada elemento por consola usando for...in
 **Ejemplos:**
 ```javascript
-console.log(`Nombre: ${obj1['nombre']}, Edad: ${obj1['edad']}, Ocupacion: ${obj1['ocupacion']}`); // Nombre: el man, Edad 25, Ocupacion: pega blo
-console.log(`${obj2['nombre']} tiene ${obj2['edad']} años y trabaja como ${obj2['ocupacion']}`); // random tiene 20 años y trabaja como Frontend Developer;
+cont arr = [1, 2, 3, 4, 5];
+for(numero in arr) {
+    console.log(numero);
+}
+cont arr2 = ['a', 'b', 'c', 'd'];
+for(letra in arr2) {
+    console.log(letra);
+}
 ```
 
-## 4. Crear una propiedad salario en cada objeto
-
+## 4. Crear 10 variables de tipo objeto (minimo 2 keys en cada objeto) y mostrar  cada elemento por consola usando for...of
 **Ejemplos:**
 ```javascript
-obj1.salario = 1500; // obj1 quedara como {name: 'el man', edad: 25, ocupacion: 'pega blo', salario: 1500}
-obj2.salario = 2000; // obj2 quedara como {name: 'random', edad: 20, ocupacion: 'Frontend Developer', salario: 2000};
-```
-
-## 5. borrar la propiedad edad en cada objeto usando dot notation
-
-**Ejemplos:**
-```javascript
-delete obj1.edad; // obj1 quedara como {name: 'el man', ocupacion: 'pega blo'}
-delete obj2.edad; // obj2 quedara como {name: 'random', ocupacion: 'Frontend Developer'};
-```
-
-## 6. borrar la propiedad ocupacion en cada objeto usando bracket notation
-
-**Ejemplos:**
-```javascript
-delete obj1['ocupacion']; // obj1 quedara como {name: 'el man', edad: 25};
-delete obj2['ocupacion']; // obj2 quedara como {name: 'random', edad: 20};
+cont obj1 = {
+    uno: 1,
+    dos: 2,
+    tres: 3
+}
+for(key in obj1) {
+    console.log(key, obj1[key]); // Key representa cada clave del objeto (uno, dos y tres en este caso)
+}
+cont obj2 = {
+    be: 'b',
+    ce: 'c',
+    efe: 'f'
+}
+for(key in obj2) {
+    console.log(key, obj2[key]); // Key representa cada clave del objeto (be, ce y efe en este caso)
+}
 ```
