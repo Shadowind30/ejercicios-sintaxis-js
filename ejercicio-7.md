@@ -45,71 +45,46 @@ console.log(1 % 2);
 ## 7. Mostrar por consola 10 comparaciones de igualdad entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-const one = 1;
-const a = 'a';
-
 console.log(1 == a);
-
 
 ```
 ## 8. Mostrar por consola 10 comparaciones de igualdad stricta entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-const one = 1;
-const a = 'a';
-
 console.log(1 === a);
 ```
 
 ## 9. Mostrar por consola 10 comparaciones de desigualdad entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-const one = 1;
-const a = 'a';
-
-console.log(1 != a);
+console.log(one != a);
 ```
 
 
 ## 10. Mostrar por consola 10 comparaciones de desigualdad estricta entre las variables numericas y las tipo string
 **Ejemplos:**
 ```javascript
-const one = 1;
-const a = 'a';
-
-console.log(1 !== a);
+console.log(one !== a);
 ```
 
 ## 11. Mostrar por consola 10 comparaciones de menor que entre las variables numericas
 ```javascript
-const one = 1;
-const two = 2;
-
 console.log(one < two);
 ```
 
 
 ## 12. Mostrar por consola 10 comparaciones de mayor que entre las variables numericas
 ```javascript
-const one = 1;
-const two = 2;
-
 console.log(one > two);
 ```
 
 ## 13. Mostrar por consola 10 comparaciones de menor o igual que entre las longitudes de las variables de cadena
 ```javascript
-const f = 'efe';
-const g = 'ge';
-
 console.log(f.length <= g.length);
 ```
 
 ## 14. Mostrar por consola 10 comparaciones de mayor o igual que entre las longitudes de las variables de cadena
 ```javascript
-const f = 'efe';
-const g = 'ge';
-
 console.log(f.length >= g.length);
 ```
 
