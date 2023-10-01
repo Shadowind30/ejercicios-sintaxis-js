@@ -27,6 +27,8 @@ while(isAlive) {
 + Del 30 a 90 (solo los numeros pares se mostraran por consola);
 + Un fizzBuzz [Explicacion](http://exponentis.es/el-test-de-fizz-buzz-para-contratar-programadores)
 + Del 1 al 100 pero que se detenga en el numero que estara declarado en una variable llamada limite al inicio de la app. Pista [Tomate un break](https://desarrolloweb.com/articulos/568.php)
+
+
 **Ejemplos:**
 ```javascript
 // Bucle for con numeros del 1 al 10, excepto el 7 y mostrando par en los numeros pares
