@@ -53,11 +53,11 @@ for(let i = 1; i<= 10; i++) {
 ```javascript
 cont arr = [1, 2, 3, 4, 5];
 for(numero in arr) {
-    console.log(numero);
+    console.log(numero); // numero representa a cada elemento del array (1, 2, 3, 4 y 5 en este caso. Pero puede ser cualquier nombre)
 }
 cont arr2 = ['a', 'b', 'c', 'd'];
 for(letra in arr2) {
-    console.log(letra);
+    console.log(letra); // letra representa a cada elemento del array ('a', 'b', 'c' y 'd' en este caso. Pero puede ser cualquier nombre)
 }
 ```
 
@@ -70,7 +70,7 @@ cont obj1 = {
     tres: 3
 }
 for(key in obj1) {
-    console.log(key, obj1[key]); // Key representa cada clave del objeto (uno, dos y tres en este caso)
+    console.log(key, obj1[key]); // Key representa cada clave del objeto (uno, dos y tres en este caso. Pero puede ser cualquier nombre)
 }
 cont obj2 = {
     be: 'b',
@@ -78,6 +78,6 @@ cont obj2 = {
     efe: 'f'
 }
 for(key in obj2) {
-    console.log(key, obj2[key]); // Key representa cada clave del objeto (be, ce y efe en este caso)
+    console.log(key, obj2[key]); // Key representa cada clave del objeto (be, ce y efe en este caso. Pero puede ser cualquier nombre)
 }
 ```
