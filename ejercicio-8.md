@@ -158,6 +158,12 @@ console.log(isMoreOrEqualThan(one, two));
 
 
 
+
+
+
+
+
+
 ## 16. Crear una funcion flecha para sumar numeros y usarla para mostrar 10 sumas entre las variables numericas 
 **Ejemplos:**
 ```javascript
