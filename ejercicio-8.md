@@ -154,6 +154,7 @@ console.log(isMoreOrEqualThan(one, two));
    - [Snapchat](https://www.snapchat.com/)
    - [Medium](https://medium.com/) - Plataforma de blogs y escritura.
    - [Clubhouse](https://www.joinclubhouse.com/) - Red social basada en audio.
+   - [Ejercicio 8-16](https://github.com/Shadowind30/ejercicios-sintaxis-js/blob/main/ejercicio-8.md#16-crear-una-funcion-flecha-para-sumar-numeros-y-usarla-para-mostrar-10-sumas-entre-las-variables-numericas)
 
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
