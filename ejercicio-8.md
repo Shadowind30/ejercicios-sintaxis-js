@@ -135,7 +135,7 @@ console.log(isMoreOrEqualThan(one, two));
 ```
 
 
-## 15. Respira... descansa por unos minutos (no tantos we...)
+## 15. Respira... descansa por unos minutos (no tantos we...) Luego continua
 **Ejemplos**
    - [Memes](https://es.memedroid.com)
    - [Facebook](https://www.facebook.com/)
