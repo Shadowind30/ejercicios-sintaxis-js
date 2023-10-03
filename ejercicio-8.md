@@ -155,7 +155,7 @@ console.log(isMoreOrEqualThan(one, two));
    - [Medium](https://medium.com/) - Plataforma de blogs y escritura.
    - [Clubhouse](https://www.joinclubhouse.com/) - Red social basada en audio.
 
-<br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ## 16. Crear una funcion flecha para sumar numeros y usarla para mostrar 10 sumas entre las variables numericas 
 **Ejemplos:**
