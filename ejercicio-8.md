@@ -135,28 +135,6 @@ console.log(isMoreOrEqualThan(one, two));
 ```
 
 
-## 15. Respira... descansa por unos minutos (no tantos we...) Luego continua
-**Ejemplos**
-   - [Memes](https://es.memedroid.com)
-   - [Facebook](https://www.facebook.com/)
-   - [Instagram](https://www.instagram.com/)
-   - [Twitter](https://twitter.com/)
-   - [Reddit](https://www.reddit.com/)
-   - [Quora](https://www.quora.com/)
-   - [YouTube](https://www.youtube.com/)
-   - [TikTok](https://www.tiktok.com/)
-   - [Twitch](https://www.twitch.tv/)
-   - [Pinterest](https://www.pinterest.com/)
-   - [Flickr](https://www.flickr.com/)
-   - [WhatsApp](https://www.whatsapp.com/)
-   - [Telegram](https://telegram.org/)
-   - [Discord](https://discord.com/)
-   - [Snapchat](https://www.snapchat.com/)
-   - [Medium](https://medium.com/) - Plataforma de blogs y escritura.
-   - [Clubhouse](https://www.joinclubhouse.com/) - Red social basada en audio.
-   - [Ejercicio 8-16](https://github.com/Shadowind30/ejercicios-sintaxis-js/blob/main/ejercicio-8.md#16-crear-una-funcion-flecha-para-sumar-numeros-y-usarla-para-mostrar-10-sumas-entre-las-variables-numericas)
-
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ## 16. Crear una funcion flecha para sumar numeros y usarla para mostrar 10 sumas entre las variables numericas 
 **Ejemplos:**
