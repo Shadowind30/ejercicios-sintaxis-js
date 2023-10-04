@@ -49,6 +49,6 @@ console.log(+yes) // true -> 1 ya que cualquier numero diferente de 0 equivale a
 ```javascript
 // Como explique arriba el operador + decide la operacion en base al valor de la izquierda, si pones '' + one Javascript convertira el valor de one a
 // string y hara la concatenacion, como la concatenacion es con un string vacio pues el contenido no cambiara
-console.log('' + one) 1 // -> '1'
+console.log('' + one) // 1 -> '1'
 console.log('' + yes) // true -> 'true'
 ```
